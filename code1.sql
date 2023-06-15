@@ -1,7 +1,7 @@
-CHALLENGE:
-https://www.codewars.com/kata/5811527d9d278b242f000006
+--CHALLENGE:
+--https://www.codewars.com/kata/5811527d9d278b242f000006
 
-SOLUTION CODE:
+--SOLUTION CODE:
 
 CREATE VIEW members_approved_for_voucher AS
 SELECT  member_id AS id,
