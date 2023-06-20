@@ -1,4 +1,4 @@
-# codewars-SQL-
+# codewars-SQL
 
 Repository of my SQL code for selected codewars exercises.
 
