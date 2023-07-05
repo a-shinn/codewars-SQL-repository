@@ -1,3 +1,9 @@
+/* CHALLENGE: Users' pets and JSON data
+https://www.codewars.com/kata/64775418ac16620042e2efce
+
+SOLUTION CODE:
+*/
+
 SELECT id,
        user_name,
        string_agg(pet_names, ', ') AS pet_names
